@@ -1,0 +1,16 @@
+Ejecutando los ejemplos
+
+Asegúrate de tener Node.js instalado en tu computadora.
+
+Descarga o clona el repositorio en tu computadora.
+
+Abre la consola y navega hasta la carpeta donde guardaste el repositorio.
+
+Ejecuta el siguiente comando para instalar las dependencias necesarias:
+
+npm install
+
+Para ejecutar un ejemplo, utiliza el comando node seguido del nombre del archivo que contiene el ejemplo.
+
+node Fibonacci.js
+
