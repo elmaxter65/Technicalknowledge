@@ -16,4 +16,3 @@ This function uses closures to calculate the nth number in the Fibonacci sequenc
 
 ## Challenge 5: Función Eneacci
 This function calculates the nth value of a sequence given D, the number of terms used to calculate the next term, and A, an array of initial terms of the sequence. It uses recursion to calculate the next term by summing the previous D terms.
-
